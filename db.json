@@ -1,0 +1,164 @@
+{
+  "signup": [
+    {
+      "id": 1,
+      "name": "hema",
+      "email": "hema@mail.com",
+      "phone": "0120000000",
+      "password": "123456"
+    },
+    {
+      "name": "ibrahim mohamed",
+      "email": "ibrahimmohamed@gmail.com",
+      "phone": "01284954021",
+      "password": "123456",
+      "id": 2
+    }
+  ],
+  "Alexandria": [
+    {
+      "id": 1,
+      "image": "https://lh3.googleusercontent.com/p/AF1QipOEGqk4wfnUrKi79RkKAIIZsWnjWkhGMWfOpi_o=w1080-h608-p-k-no-v0",
+      "title": "Own Cafe & Resturant",
+      "location": "Alexandria , Smoha",
+      "category": "smoha",
+      "menu_path": "http://www.ilovemosaiccafe.com/menu.pdf",
+      "phone_numbers": [
+        "05035648",
+        "0108540235"
+      ]
+    },
+    {
+      "id": 2,
+      "image": "https://s3-eu-west-1.amazonaws.com/elmenusv5-stg/Normal/fcd8299d-a3a8-11e8-b2ca-0242ac110002.jpg",
+      "title": "Pistachio Cafe",
+      "location": "Alexandria , Smoha",
+      "category": "smoha",
+      "menu_path": "https://pistachiovancouver.ca/menu",
+      "phone_numbers": [
+        "034247072",
+        "01211551112"
+      ]
+    },
+    {
+      "id": 3,
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/12/b9/ac/71/the-main-entrance.jpg",
+      "title": "Pistachio Cafe",
+      "location": "Alexandria , Smoha in side green blaza",
+      "category": "smoha",
+      "menu_path": "https://www.mimiscafe.com/wp-content/uploads/2018/05/mimis-cafe-menu.pdf",
+      "phone_numbers": [
+        "034247072",
+        "01211551112"
+      ]
+    },
+    {
+      "id": 4,
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/17/53/2b/34/photo2jpg.jpg",
+      "title": "Le Cafe",
+      "location": "Alexandria , Smoha in side zahraan mool",
+      "category": "smoha",
+      "menu_path": "https://www.hardrockcafe.com/location/nabq/files/5443/HRC_Nabq_Menu.pdf",
+      "phone_numbers": [
+        "034247072",
+        "01211551112"
+      ]
+    },
+    {
+      "id": 5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQamDv27IPcnyFFftZw_5IHTb5nYtpfRK68fjg6kYU9ukvxAHeOin0qNlQvZVPl23ng3Y8&usqp=CAU",
+      "title": "Wave Cafe & Resturant",
+      "location": "Sidi Gaber ",
+      "category": "sidigaber",
+      "menu_path": "https://wavecafe.co.za/menu/",
+      "phone_numbers": [
+        "034247072",
+        "01211551112"
+      ]
+    },
+    {
+      "id": 6,
+      "image": "https://assets.architecturaldigest.in/photos/650322a45b6f34a108a37257/master/pass/Untitled%20design%20(4).png",
+      "title": "Santorini Restaurant and Cafe",
+      "location": "The Walk, Sidi Gaber, Alexandria, ",
+      "category": "sidigaber",
+      "menu_path": "https://cafesantorini.com/wp-content/uploads/2022/07/cafesantorini-menu.pdf",
+      "phone_numbers": [
+        "034247072",
+        "1557427098"
+      ]
+    },
+    {
+      "id": 7,
+      "image": "https://fastly.4sqi.net/img/general/600x600/70256783_aJy0KTxlexIet_7Qw_H4sp-K56zD4CX5zCM258Gt_4k.jpg",
+      "title": "Santos Cafe and Restaurant ",
+      "location": " Sidi Gaber, Alexandria, ",
+      "category": "sidigaber",
+      "menu_path": "https://santos-aruba.com/new-menu",
+      "phone_numbers": [
+        "034247072",
+        "1557427098"
+      ]
+    },
+    {
+      "id": 8,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSB1QuM86NRp10cKCABn9CBPs943f_SMdkHmkLaNbuGRobqpJJTqooojJVZoLReYZY5g8&usqp=CAU",
+      "title": "ONDA Cafe & Resturant",
+      "location": "The Walk, Sidi Gaber, Alexandria,",
+      "category": "sidigaber",
+      "menu_path": "https://santos-aruba.com/new-menu",
+      "phone_numbers": [
+        "034247072",
+        "1557427098"
+      ]
+    },
+    {
+      "id": 9,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTnoZR_gNyBt0OUQW9LcgTQxJdhPl2dLMXZmfS4riAmhOdIoGmHBGSwST53CmbkTyCkFo&usqp=CAU",
+      "title": "Santos Cafe and Restaurant Saba basha",
+      "location": "Saba basha, Alexandria",
+      "category": "elmanshya",
+      "menu_path": "https://restaurant-guru.in/SkyMoon-Cafe-Pune/menu",
+      "phone_numbers": [
+        "034247072",
+        "1557427098"
+      ]
+    },
+    {
+      "id": 10,
+      "image": "https://i.pinimg.com/736x/09/dd/3e/09dd3e36c66e0df9cfccd1eef4c5d2fb.jpg",
+      "title": "Space café & playstation ",
+      "location": "742 El-Geish street, El-montaza, Alexandria, Egypt",
+      "category": "elmanshya",
+      "menu_path": "https://www.facebook.com/spacecafeandplaystation?mibextid=ZbWKwL",
+      "phone_numbers": [
+        "0342470703",
+        "1557427098"
+      ]
+    },
+    {
+      "id": 11,
+      "image": "https://res.cloudinary.com/myhq/image/upload/workspaces/spaced-out-cafe-shahpurjat/2.jpg",
+      "title": "OUT Cafe  ",
+      "location": "Golden jewel hotel, Sidi gaber, ElGiesh road Alexandria, Egypt , Alexandria, Egypt",
+      "category": "sidigaber",
+      "menu_path": "https://timeoutcafe.com.pk/menu/",
+      "phone_numbers": [
+        "0342470703",
+        "1557427098"
+      ]
+    },
+    {
+      "id": 12,
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/13/5e/1e/ed/20180526-115519-largejpg.jpg",
+      "title": "Capitano Cafe & Restaurant",
+      "location": "Al-Asafra - 45 Bahri Al-Sikka - Intersection 45 with Malak Hefny - Miami Place Tower, Alexandria, Egypt",
+      "category": "sidigaber",
+      "menu_path": "https://timeoutcafe.com.pk/menu/",
+      "phone_numbers": [
+        "0342470703",
+        "1557427098"
+      ]
+    }
+  ]
+}
